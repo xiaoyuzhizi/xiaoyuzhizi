@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning  cpp,python and some basic maths knowledge.
+🌱 I’m currently learning  cpp,python and some basic maths knowledge.(done)
+🌱 I’m currently learning ML on kaggle.
 ⚡ Fun fact: I loooove yummy food!!
 <!--
 **xiaoyuzhizi/xiaoyuzhizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
